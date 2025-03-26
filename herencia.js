@@ -50,6 +50,6 @@ class Refrigerador extends Electrodomestico {
     }
 }
 
-// Crear un objeto correctamente
+
 let refrigerador1 = new Refrigerador("Haceb", "XR-2025", 10, 50);
 refrigerador1.descripcion();
